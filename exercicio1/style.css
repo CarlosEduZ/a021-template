@@ -1,0 +1,22 @@
+h1{
+    background-color: blue;
+    color: #fff;
+}
+/* #titulo-importante{
+    background-color: blueviolet;
+} */
+h2{
+    background-color: yellow;/* .sub-titulo{
+    background-color: red;
+} */
+}
+section{
+    background-color: green;
+}
+.titulo-secao{
+    color: #fff;
+}
+footer{
+    background-color: black;
+    color: #fff;
+}
